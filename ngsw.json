@@ -1,0 +1,63 @@
+{
+  "configVersion": 1,
+  "index": "https://shailender267.github.io/Foliotwo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://shailender267.github.io/Foliotwo/favicon.ico",
+        "https://shailender267.github.io/Foliotwo/index.html",
+        "https://shailender267.github.io/Foliotwo/manifest.json",
+        "https://shailender267.github.io/Foliotwo/inline.7edd8abea921617c019f.bundle.js",
+        "https://shailender267.github.io/Foliotwo/main.ebcb942e7d7a39bc63b3.bundle.js",
+        "https://shailender267.github.io/Foliotwo/polyfills.c4b135b19416f3437004.bundle.js",
+        "https://shailender267.github.io/Foliotwo/styles.dcb80ee32c5c39cb7d8b.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://shailender267.github.io/Foliotwo/assets/ngx-rocket-logo.png",
+        "https://shailender267.github.io/Foliotwo/assets/images/aboutUs-footer.jpg",
+        "https://shailender267.github.io/Foliotwo/assets/images/appDesign-icon.png",
+        "https://shailender267.github.io/Foliotwo/assets/images/bg-header.jpg",
+        "https://shailender267.github.io/Foliotwo/assets/images/contactPage-bg.jpg",
+        "https://shailender267.github.io/Foliotwo/assets/images/email-icon.png",
+        "https://shailender267.github.io/Foliotwo/assets/images/locaion-icon.png",
+        "https://shailender267.github.io/Foliotwo/assets/images/My-Folio_02.jpg",
+        "https://shailender267.github.io/Foliotwo/assets/images/phone-icon.png",
+        "https://shailender267.github.io/Foliotwo/assets/images/profileImage.jpg",
+        "https://shailender267.github.io/Foliotwo/assets/images/uxDesign-icon.png",
+        "https://shailender267.github.io/Foliotwo/assets/images/webDesign-icon.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://shailender267.github.io/Foliotwo/inline.7edd8abea921617c019f.bundle.js": "4a78cd29b28da47afbf84e69a5178bcdeafc6172",
+    "https://shailender267.github.io/Foliotwo/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "https://shailender267.github.io/Foliotwo/main.ebcb942e7d7a39bc63b3.bundle.js": "43f6f9b3762f9fc10e02bbda0110d192dd5350ff",
+    "https://shailender267.github.io/Foliotwo/assets/images/aboutUs-footer.jpg": "182eebbd2b37e682ae75534f2b44174ae37c3263",
+    "https://shailender267.github.io/Foliotwo/polyfills.c4b135b19416f3437004.bundle.js": "c7b6dbe297bfa4eec421df551002bed7dc25cd03",
+    "https://shailender267.github.io/Foliotwo/assets/images/appDesign-icon.png": "02fd969b4409e854c96a5a17659c60692bc0636a",
+    "https://shailender267.github.io/Foliotwo/styles.dcb80ee32c5c39cb7d8b.bundle.css": "7c0dac5c19ef3cf1b49923be951442c758e41a9a",
+    "https://shailender267.github.io/Foliotwo/assets/images/bg-header.jpg": "5565199f184ac3b3c11bcd11ac34a8b8d52fd9b3",
+    "https://shailender267.github.io/Foliotwo/favicon.ico": "ce394937f8a2ac118f4a6ba6ccc61a955590e1cb",
+    "https://shailender267.github.io/Foliotwo/assets/images/contactPage-bg.jpg": "07f90d351cdf4d47cf3e5873d71b6d559160fb09",
+    "https://shailender267.github.io/Foliotwo/index.html": "1128d0e52118ef47a710aed76953f9eea21ad4c6",
+    "https://shailender267.github.io/Foliotwo/assets/images/email-icon.png": "79e0b3a2ad6d45c4fbe01e61e467aeb21a948082",
+    "https://shailender267.github.io/Foliotwo/manifest.json": "ba27b2da82c6b3270a03043b12815fed49cf3fab",
+    "https://shailender267.github.io/Foliotwo/assets/images/locaion-icon.png": "d5a1a3c44f5d0f4ffc6a8926f7f823badbf94a98",
+    "https://shailender267.github.io/Foliotwo/assets/images/My-Folio_02.jpg": "1dfbeacd5f5261161b370fc6e969686b7f3557fb",
+    "https://shailender267.github.io/Foliotwo/assets/images/phone-icon.png": "ede41257776e6d54a107eca40117d526d0ac6694",
+    "https://shailender267.github.io/Foliotwo/assets/images/profileImage.jpg": "fa19b26256a1e82233f8e95fe4fc64cfd5d2a947",
+    "https://shailender267.github.io/Foliotwo/assets/images/uxDesign-icon.png": "1e25e8a01ef6e39c1c3fc63ba1c5fd9b198e116e",
+    "https://shailender267.github.io/Foliotwo/assets/images/webDesign-icon.png": "599aebb34e2ba39227636644696aef165bcda29b"
+  }
+}
